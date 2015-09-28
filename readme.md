@@ -3,7 +3,7 @@ Repository for the first week of Fall 2015 Spark iOS curriculum and assignments
 
 ## Setup
 - Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store
-- Visit [https://github.com/IgnitionBoulder/iOS2015-Week1]()
+- Visit [https://github.com/IgnitionBoulder/iOS2015-Week1](https://github.com/IgnitionBoulder/iOS2015-Week1)
 - Click the "Fork" button, and accept and confirm steps
 - Your repo will now be at https://github.com/YOUR_USERNAME/iOS2015-Week1
 - Go to *your* repo and enter do your work using the files in the **deliverables** folder
