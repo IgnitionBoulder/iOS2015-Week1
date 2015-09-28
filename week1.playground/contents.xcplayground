@@ -2,7 +2,6 @@
 <playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
     <pages>
         <page name='Table of Contents'/>
-        <page name='Swift Introduction'/>
         <page name='Variables'/>
         <page name='Functions'/>
         <page name='Collections'/>

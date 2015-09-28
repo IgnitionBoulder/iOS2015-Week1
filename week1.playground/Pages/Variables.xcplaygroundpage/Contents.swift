@@ -1,5 +1,5 @@
 //: # Variables
-//: [TOC](Table%20of%20Contents) | [Previous](@previous) | [Next](@next)
+//: [TOC](Table%20of%20Contents) | Previous | [Next](@next)
 
 //: ## Constants
 //: Constants are variables whose values _cannot_ be changed. They are defined using the **let** keyword.
@@ -99,4 +99,4 @@ typealias Name = String
 var testName: Name = "test name"
 print(testName.dynamicType)
 
-//: [TOC](Table%20of%20Contents) | [Previous](@previous) | [Next](@next)
+//: [TOC](Table%20of%20Contents) | Previous | [Next](@next)
