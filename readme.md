@@ -11,7 +11,7 @@ Repository for the first week of Fall 2015 Spark iOS curriculum and assignments
 
 ## Week 1: Intro to Swift, Playgrounds and Git/GitHub
 
-### Section 1: Swift & Xcode Playgrouns
+### Section 1: Swift & Xcode Playgrounds
 #### Required - Complete the required tasks outlined in the _homework.playground_ file
 
 #### Swift Resources

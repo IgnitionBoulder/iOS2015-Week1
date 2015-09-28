@@ -7,8 +7,6 @@
   - No class the week of Thanksgiving
   - Punctuality is expected
   - All classes are at Spark
-  - Office hours 5-6pm before class on Tuesdays & Thursdays
-  - Weekend office hours?
 - Grading policy
   - This isn’t school, we want everyone to learn a lot.  There is no accredited finishing point where we want everyone to be.  Teams will be grouped with similar skill level.
   - We will be assessing your work weekly for completion, and then providing a full report to companies on your competency and effort levels at the end of class. Motivation for success should be from yourself and your desire to get the internship.
